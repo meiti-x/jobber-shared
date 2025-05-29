@@ -11,3 +11,4 @@ export * from './interfaces/seller.interface'
 // code
 export * from './cloudinary.upload'
 export * from './error-handler'
+export * from './gateway-middleware'
