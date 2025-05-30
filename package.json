@@ -1,5 +1,5 @@
 {
-  "version": "0.0.75",
+  "version": "0.0.8",
   "license": "MIT",
   "description": "Helpers library for my app",
   "main": "./build/cjs/index.js",
